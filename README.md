@@ -84,13 +84,3 @@ World-Atlas/
 ## 📦 API Reference
 
 - Uses [REST Countries API](https://restcountries.com/) for live country data.
-
-## 🙏 Credits & Contact
-
-- **Location:** Karachi, Sindh
-- **Email:** contactMe@gmai.com
-- **Phone:** 234234234234
-
----
-
-Made with ❤️ using React and Vite.
